@@ -1,0 +1,174 @@
+body{
+    background-image: url(https://goodork.ru/templates/chloe_go/design/backgrounds/Valentine/images/bg.png);
+    overflow-x: hidden;
+}
+/* Шапка */
+header {
+  text-align: center;
+}
+
+header a {
+  display: block;
+  text-decoration: none;
+  outline: none;  
+  transition: .3s ease-in-out;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+}
+div {
+  display: table;
+  margin: 0 auto;
+   font-family: Century Gothic;
+}
+
+div ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+}
+
+.topmenu:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.topmenu > li {
+  float: left;
+  position: relative;
+  font-family: Century Gothic;
+}
+
+.topmenu > li > a {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  padding: 15px 30px;
+    font-family: Century Gothic;
+}
+
+.topmenu li a:hover {
+ color: red;
+}
+
+/* Товар */
+.t1{
+    cursor: pointer;
+    margin-left: 250px;
+    margin-top: 15px;
+    width: 480px;
+    height: 550px;
+}
+.t2{
+    font-family: Century Gothic;
+    margin-left: 750px;
+    margin-top: -450px;
+}
+.t2 h1{
+    display: flex;
+    width: 50%;
+    color: #fa5;
+}
+.t2 p{
+    display: flex;
+    width: 30%;
+    color: black;
+}
+.t2 button{
+    font-size: 25px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+}
+.t2 button:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.t2 > .cena{
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+.t3{
+    width: 50%;
+    margin-top: 5vw;
+    margin-left: 19vw;
+    font-family: Century Gothic;
+}
+.t2 >.nal{
+    font-size: 25px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    margin-left: 10vw;
+    margin-top: -4vw;
+}
+.kol{
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Century Gothic;
+}
+.b1{
+    margin-left: 5px;
+}
+
+/* Подвал */
+footer{
+    position: absolute;
+  width: 100%;
+  height: 100px;
+  font-family: Century Gothic;
+  color: black;
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.vk{
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+.svyaz{
+    margin-top: -85px;
+    margin-left: 190px;
+}
+.p1{
+    font-size: 20px;
+    margin-left:  350px;
+    margin-top: -65px;
+    position: absolute;
+}
+
+/* Для ссылок */
+a:link{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: black;
+}

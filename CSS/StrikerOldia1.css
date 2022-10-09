@@ -1,0 +1,373 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-image: url(https://goodork.ru/templates/chloe_go/design/backgrounds/Valentine/images/bg.png);
+  overflow-x: hidden;
+}
+/* Шапка */
+header {
+  text-align: center;
+}
+
+header a {
+  display: block;
+  text-decoration: none;
+  outline: none;  
+  transition: .3s ease-in-out;
+}
+
+/*Подключение шрифта*/
+@font-face {
+    font-family: 'Century Gothic'; 
+    src: url(/Font/centurygothic.ttf); 
+}
+
+/* Продолжение стиля для шапки */
+.logo {
+  width: 150px;
+  height: 150px;
+}
+div {
+  display: table;
+  margin: 0 auto;
+   font-family: Century Gothic;
+}
+
+div ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+}
+
+.topmenu:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.topmenu > li {
+  float: left;
+  position: relative;
+  font-family: Century Gothic;
+}
+
+.topmenu > li > a {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  padding: 15px 30px;
+    font-family: Century Gothic;
+}
+
+.topmenu li a:hover {
+ color: red;
+}
+
+/* Слайдер */
+.slider {
+  position: relative;
+  max-width: 450px;
+  margin: 20px auto;
+  box-shadow: 0 0 5px #000000;
+}
+
+.slider input[name="switch"] {
+  display: none;
+}
+
+.switch {
+  position: absolute;
+  left: 0;
+  bottom: -40px;
+  text-align: center;
+  width: 100%;
+}
+
+.switch label {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  margin: 0 3px;
+  box-shadow: 0 0 5px #000000;
+  border-radius: 50%;
+  border: 5px solid #2f363c;
+  background-color: #738290;
+}
+
+#btn1:checked~.switch label[for="btn1"] {
+  background-color: white;
+}
+
+#btn2:checked~.switch label[for="btn2"] {
+  background-color: white;
+}
+
+#btn3:checked~.switch label[for="btn3"] {
+  background-color: white;
+}
+#btn4:checked~.switch label[for="btn4"] {
+  background-color: white;
+}
+#btn5:checked~.switch label[for="btn5"] {
+  background-color: white;
+}
+
+.slider-inner {
+  overflow: hidden;
+  
+}
+
+.slides {
+  display: flex;
+  width: 100%;
+  transition: all 0.5s;
+}
+
+.slides img {
+  width: 100%;
+  flex-shrink:0;
+}
+
+#btn1:checked~slider-inner slides {
+  transform: translate(0);
+}
+
+#btn2:checked~.slider-inner .slides {
+  transform: translateX(-100%);
+}
+
+#btn3:checked~.slider-inner .slides {
+  transform: translateX(-200%);
+}
+#btn4:checked~.slider-inner .slides {
+  transform: translateX(-300%);
+}
+#btn5:checked~.slider-inner .slides {
+  transform: translateX(-400%);
+}
+
+/* Товар */
+.t1{
+    width: 75%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: colunm;
+    font-family: Century Gothic;
+    flex: 0 -5px;
+    margin-top: 125px;
+}
+.t2{
+    font-size: 15px;
+    text-align: center;
+    flex: 0 5px;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.t3{
+    width: 250px;
+    height: 250px;
+    margin-top: 5px;
+}
+.t2 button{
+    font-size: 25px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+}
+.t2 button:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.t2:hover{
+    box-shadow: 0 0 5px #000000;
+}
+.t2 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.t2 a:link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.t2 a:hover{
+    text-decoration: underline;
+}
+.t2 a:visited{
+    color: black;
+}
+.t2 a:active{
+    color: black;
+}
+.t3:hover{
+    cursor: pointer;
+}
+/* Подвал */
+footer{
+    position: absolute;
+  width: 100%;
+  height: 100px;
+  font-family: Century Gothic;
+  color: black;
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.vk{
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+.svyaz{
+    margin-top: -85px;
+    margin-left: 190px;
+}
+.p1{
+    font-size: 20px;
+    margin-left:  350px;
+    margin-top: -65px;
+    position: absolute;
+}
+
+/* Для ссылок */
+a:link{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: black;
+}
+/* Для формы */
+form{
+    margin-top: 5vw;
+    margin-left: 40vw;
+}
+form input{
+    width: 350px;
+    height: 45px;
+    font-family: Century Gothic,Arial,Helvetica,sans-serif;
+    display: flex;
+    border: 1px solid black;
+    font-size: 20px;
+    margin-left: 2vw;
+}
+.button{
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.register{
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 140px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+.register2{
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 140px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: 10px;
+    position: absolute;
+}
+.register3{
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 140px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 380px;
+    margin-top: 10px;
+}
+.login{
+    margin-top: 5px;
+}
+.parol{
+    margin-top: 5px;
+}
+.email{
+    margin-top: 5px;
+}
+header h2{
+    font-family: Century Gothic;
+    font-size: 25px;
+    position: absolute;
+    margin-left: 745px;
+    margin-top: -35px;
+}
+.button:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.register:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.register3:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.register2:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+/* Для кнопок на основной странице */
+.knopki{
+    display: flex;
+    margin-top: -165px;
+    margin-left: 125px;
+    position: absolute;
+}

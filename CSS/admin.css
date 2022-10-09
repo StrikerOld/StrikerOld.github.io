@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    width: 1800px;
+    margin: 5px auto;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-image: url(Fon.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header{
+    width: 100%;
+    height: 150px;
+}
+.logo{
+    
+   width: 150px;
+    height: 120px;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    margin-right: 160px;
+}
+input{
+    color: white;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 14px 35px 14px 41px;
+    border: 1px solid black;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: transparent;
+    width: 500px;
+    height: 50px;
+    margin-top: -180px;
+    margin-left: 200px;
+}
+.ffd{
+margin-top: -50px;
+}
+.dropbtn {
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.dropbtn:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+  .vux {
+   font-size: 20px;
+    color: black;
+    background-color: #fa5;
+    font-family: Century Gothic;
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    border: 0px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.vux:hover{
+    color: white;
+    background-color: #FF8C00;
+}
+.dropdown {
+  color: black;
+  position: relative;
+  display: inline-block;
+}
+.drow {
+  color: black;
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  color: white;
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.menu2{
+    color: black;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+menu{
+    background-color:#00BFFF;
+    width: 300px;
+    height: 550px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    margin-top:30px;
+    color: black;
+}
+menu p{
+    margin-left: 10px;
+    color: black;
+}
+menu p + p{
+    margin-top: 25px;
+    color: black;
+}
+menu p:after {
+color: black;
+display: block; 
+content: ""; 
+height: 3px;
+width: 0%; 
+background-color: white; 
+transition: width 0.3s ease-in-out;
+}
+menu p:hover:after,
+menu p:focus:after {
+width: 100%;
+color: black;
+}
+menu p:hover{
+color: black;
+} 
+.okno1{
+    background-color: #fa5;
+    width: 300px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    margin-left: 350px;
+    color: black;
+}
+.panel{
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+    color: black;
+}
+.okno2{
+    background-color: #fa5;
+    width: 300px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    color: black;
+}
+.okno3{
+    background-color: #fa5;
+    width: 300px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+}
+.okno4{
+    background-color: #fa5;
+    width: 300px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    color: black;
+}
+  p{
+    margin-left: 10px;
+    margin-top: 25px;
+    color: black;
+}
+ p + p{
+     color: black;
+    margin-top: 25px;
+}
