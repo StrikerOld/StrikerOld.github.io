@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: StrikerOld.github.io/admin.html
-Sitemap: httpы://StrikerOld.github.io/sitemap.xml
+Sitemap: http://StrikerOld.github.io/sitemap.xml
 Host: StrikerOld.github.io
