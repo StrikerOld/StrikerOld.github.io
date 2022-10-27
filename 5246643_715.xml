@@ -1,0 +1,2504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://github.com/</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/features/actions</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/packages</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/security</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/codespaces</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/copilot</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/code-review</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/issues</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/discussions</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/enterprise</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/team</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pricing</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/readme</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/topics</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/collections</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/login</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/signup</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/mobile</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/tensorflow/tensorflow</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/home-assistant/core</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/rust-lang/rust</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/flutter/flutter</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/kubernetes/kubernetes</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/apple/swift</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/ansible/ansible</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/hashicorp/terraform</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/ohmyzsh/ohmyzsh</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/facebook/react</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/npm/cli</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/security</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories?type=enterprise</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/github/roadmap</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/about</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/about/careers</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/about/press</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/about/diversity</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/github</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/github/site-policy/pull/582</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://github.com/site-map</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/git-guides</loc>
+	<lastmod>2022-10-27T11:40:37+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/features/</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/enterprise/contact</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/launchdarkly/find-code-references</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Azure/actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/aws-actions/amazon-ecr-login</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Azure/k8s-actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/codeclimate/velocity-deploy-action</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/coverallsapp/github-action</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Axosoft/glo-actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/mablhq/github-mabl-actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/actions/stale</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/actions/labeler</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/GoogleCloudPlatform/github-actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/codecov/codecov-action</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace?type=actions</loc>
+	<lastmod>2022-10-27T11:40:38+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/organizations/enterprise_plan</loc>
+	<lastmod>2022-10-27T11:40:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/skills/publish-packages</loc>
+	<lastmod>2022-10-27T11:40:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/security/code</loc>
+	<lastmod>2022-10-27T11:40:40+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/features/security/software-supply-chain</loc>
+	<lastmod>2022-10-27T11:40:40+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/advisories/GHSA-763g-fqq7-48wg</loc>
+	<lastmod>2022-10-27T11:40:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/advisories/GHSA-h466-j336-74wx</loc>
+	<lastmod>2022-10-27T11:40:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/github/codeql/pulls</loc>
+	<lastmod>2022-10-27T11:40:40+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/codecov</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/codacy</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/coveralls</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/codefactor</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/features/copilot/org_signup</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/github-community/community/discussions/categories/copilot</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/github-community/community/discussions/categories/accessibility</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/settings/copilot</loc>
+	<lastmod>2022-10-27T11:40:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace</loc>
+	<lastmod>2022-10-27T11:40:43+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/stripe</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/twilio</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/spotify</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/arduino</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/ford</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/3m</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/pg</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/american-airlines</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/nationwide</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/kpmg</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/premium-support</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/dow-jones</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/jira-software-github</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/actions/checkout</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/actions/setup-node-js-environment</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/actions/npm-publish</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/front</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/trayio</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories?type=team</loc>
+	<lastmod>2022-10-27T11:40:44+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/trustpilot</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/netdata</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/sap</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/customer-stories/nubank</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/settings/billing</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pricing/calculator</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/explore</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/accounts</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/mfix22</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/thejonanshow</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/curl</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/curl</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/openssl</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/openssl</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/swannodette</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/explore</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/events</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/explore/email</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/ansible</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/material-design</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/bash</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/3d</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/ajax</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/algorithm</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/amphp</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/android</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/angular</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/api</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/arduino</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/aspnet</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/atom</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/awesome</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/aws</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/azure</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/babel</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/bitcoin</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/bootstrap</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/bot</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/c</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/chrome</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/chrome-extension</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/cli</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/clojure</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/code-quality</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/code-review</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/compiler</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/continuous-integration</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/covid-19</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/cpp</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/nodejs</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/javascript</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/config</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/python</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/java</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/typescript</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/reactjs</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/hacktoberfest</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/github-config</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/topics/hacktoberfest-accepted</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/featured/open-source-democratizing-video-games</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/johanna-pirker</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/engineering-for-software</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/culture-on-code</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/github-enterprise-kpmg</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/featured</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/podcast</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/topics</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/nominate</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/topics/open-source</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/topics/culture</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/topics/security</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/topics/devops</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/podcast/java-programming-language</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/podcast/functional-programming</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/featured/future-of-the-command-line</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/github-actions-dbatools</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/onward-maintainer-framework</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/samson-goddy</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/podcast/neha-batra-and-brian-douglas</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/podcast/quincy-larson</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/featured/oss-decision-making</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/aaron-francis</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/kara-carrell</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/jonathan-leitschuh</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/stories/frances-coronel</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/testable-requirements-feedback</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/github-advanced-security-telus</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/maintainer-monolith</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/readme/guides/sothebys-github-actions</loc>
+	<lastmod>2022-10-27T11:40:45+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/pixel-art-tools</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/made-in-brazil</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/learn-to-code</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/choosing-projects</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/clean-code-linters</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/open-journalism</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/design-essentials</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/music</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/government</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/devops-tools</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/front-end-javascript-frameworks</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/github-browser-extensions</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/github-pages-examples</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/hacking-minecraft</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/javascript-game-engines</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/machine-learning</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/made-in-africa</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/net-neutrality</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/open-data</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/open-source-organizations</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/policies</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/collections/productivity-tools</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/password_reset</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faccount%2Forganizations%2Fnew</loc>
+	<lastmod>2022-10-27T11:40:46+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending/developers</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ab</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=aa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=af</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ak</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sq</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=am</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ar</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=hy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ae</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=eu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=bn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=bg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=my</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ca</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ch</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=cv</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=kw</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=dv</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=dz</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ee</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=fi</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ka</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=gu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=he</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=hu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ie</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=io</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=it</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=kn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=kk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=rw</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ky</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ko</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=kj</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=lg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ln</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=lu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=lv</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=mk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ml</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=mi</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=mh</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=mn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=na</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=nv</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=nd</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ng</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=nn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=nr</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=oj</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=or</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=os</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=pa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=pi</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=fa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=pl</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ps</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=pt</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=qu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=rm</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=rn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ro</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ru</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sc</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sd</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=se</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sm</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sr</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=gd</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=si</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sl</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=so</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=st</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=es</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=su</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sw</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ss</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=sv</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ta</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=te</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=th</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ti</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=bo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tl</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=to</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tr</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ts</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tt</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=tw</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ty</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ug</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=uk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ur</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=uz</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=ve</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=vi</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=vo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=wa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=cy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=wo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=fy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=xh</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=yi</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=yo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=za</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending?spoken_language_code=zu</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trending/cap&amp;</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/trending/ren&amp;</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/answerdev/answer</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/LinkinStars</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/shuashuai</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/robinv8</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/fenbox</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/aichy126</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/jlevy/the-art-of-command-line</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/jlevy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/petk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/Psycho7</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ceoaliongroo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/stepan0904</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/valeriansaliou</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/valeriansaliou/sonic</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/valeriansaliou</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pleshevskiy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/dsewnr</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/perzanko</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/xmonader</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ToolJet/ToolJet</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Navaneeth-pk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sherfin94</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/akshaysasidrn</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/arpitnath</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/shah21</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/JoePenna/Dreambooth-Stable-Diffusion</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/djbielejeski</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/JoePenna</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/XavierXiao</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/fabbarix</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/diabeticpilot</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/vercel/turbo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/jaredpalmer</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sokra</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/gsoltis</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/nathanhammond</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/tknickman</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/dortania/OpenCore-Legacy-Patcher</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/khronokernel</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/dhinakg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ParaDoX1994</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/educovas</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/kommtzeitkonrad</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/tenable/terrascan</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/cesar-rodriguez</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/kanchwala-yusuf</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/patilpankaj212</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pyup-bot</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/williepaul</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/mikeroyal/Self-Hosting-Guide</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/mikeroyal</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/cvvletter</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/n-hebert</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/beninsydney</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/Textualize/textual</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/willmcgugan</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/darrenburns</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/davep</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/rodrigogiraoserrao</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/driscollis</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ijjk</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/timneutkens</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/Timer</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/arunoda</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/styfle</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/Asabeneh/30-Days-Of-React</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Asabeneh</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/momin-riyadh</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/piouson</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pkiczko</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sandeep1201</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/komodorio/helm-dashboard</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/undera</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/itielshwartz</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/dhiemaz</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/liornoy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/nirsht</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/aheze/OpenFind</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/aheze</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/MonsterNone/tmall-miao</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/MonsterNone</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/touchren</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/pop-os/cosmic-text</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/jackpot51</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/xorgy</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/genusistimelord</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/grovesNL</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/kettle11</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/PowerShell/PowerShell</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/andschwa</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/TravisEz13</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/daxian-dbw</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/adityapatwardhan</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/xtqqczze</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/SerenityOS/serenity</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/awesomekling</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/linusg</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/alimpfard</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/trflynn89</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/IdanHo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/TheLastBen/fast-stable-diffusion</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/TheLastBen</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/daswer123</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/kaneda2004</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/swcrazyfan</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/skorokithakis</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/WalletConnect/web3modal</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/pedrouid</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/crisgarner</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/IljaDaderko</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/apps/dependabot</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/YZhenY</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/jaywcjlove/linux-command</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/jaywcjlove</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/apps/github-actions</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/ZhuangZhu-74</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/renovate-bot</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/apps/renovate</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/asdf-vm/asdf</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/Stratus3D</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/HashNuke</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/vic</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/jthegedus</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/danhper</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/Azure/azure-rest-api-specs</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/nschonni</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/amarzavery</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ArcturusZhang</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/lmazuel</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/msyyc</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/sponsors/patriciogonzalezvivo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/patriciogonzalezvivo/glslViewer</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/patriciogonzalezvivo</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/mihaisebea-gl</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/bespsm</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/doug-moen</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/tcoyvwac</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/ethereum-optimism/optimism</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/tynes</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/smartcontracts</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/mslipper</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/apps/mergify</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/maurelian</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/LICENSE</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/issues</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/pulls</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/discussions</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/actions</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/projects</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/security</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://github.com/marketplace/renovate</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/commit/bfe7ee0bfea48472879a1bfc47a444d5631bb8dc</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/pull/33506</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.dockerignore</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.editorconfig</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.eslintignore</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.gitattributes</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.gitignore</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.gitpod.Dockerfile</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.gitpod.yml</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.npmignore</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.prettierignore</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/.yarnrc</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/CHANGELOG.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/CODEOWNERS</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/CODE_OF_CONDUCT.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/CONTRIBUTING.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/GOVERNANCE.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/README.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/SECURITY.md</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/dictionary.txt</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/jest.environment.ts</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/lerna.json</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://github.com/gatsbyjs/gatsby/blob/master/package.json</loc>
+	<lastmod>2022-10-27T11:40:47+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+</urlset>
