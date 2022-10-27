@@ -160,6 +160,10 @@ div ul {
   transform: translateX(-400%);
 }
 
+/* Мемчик */
+.meme{
+  margin-top: 5px;
+}
 /* Товар */
 .t1{
     width: 75%;
