@@ -166,8 +166,8 @@ div ul {
 }
 /* Блок "кратко о нас" */
 .onaskr{
-  width: 70%;
-  margin-left: 250px;
+  width: 45%;
+  margin-left: 350px;
 }
 .onaskr p{
   font-size: 20px;
