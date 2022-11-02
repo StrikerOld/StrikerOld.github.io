@@ -164,6 +164,15 @@ div ul {
 .meme{
   margin-top: 35px;
 }
+/* Блок "кратко о нас" */
+.onaskr{
+  width: 70%;
+  margin-left: 250px;
+}
+.onaskr p{
+  font-size: 20px;
+}
+
 /* Товар */
 .t1{
     width: 75%;
