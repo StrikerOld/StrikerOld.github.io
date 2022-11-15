@@ -5,6 +5,24 @@
 	<loc>https://strikerold.github.io/</loc>
 	<lastmod>2022-10-27T11:56:37+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Slider/1.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Slider/2.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Slider/3.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Slider/4.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Slider/5.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/meme.jpg</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://strikerold.github.io/HTML/Onas.html</loc>
@@ -76,5 +94,34 @@
 	<loc>https://strikerold.github.io/Tovar/tovar8.html</loc>
 	<lastmod>2022-11-02T09:37:39+01:00</lastmod>
 	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://strikerold.github.io/HTML/Tov.html</loc>
+	<lastmod>2022-11-15T16:04:26+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/CPBA.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/WBT.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/SMPI.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/Abba.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/DGPM.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/CPSW.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/Mephi.jpg</image:loc>
+	</image:image>
+	<image:image>
+	<image:loc>https://strikerold.github.io/Kart/CSML.jpg</image:loc>
+	</image:image>
 </url>
 </urlset>
