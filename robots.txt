@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
-Allow: https://strikerold.github.io/HTML/Tov.html
-Disallow: StrikerOld.github.io/tree/main/Kart/
-Disallow: StrikerOld.github.io/admin.html
+Allow: https://strikerold.github.io/HTML/Tov.html/
+Disallow: https://strikerold.github.io/StrikerOld.github.io/tree/main/Kart/
+Disallow: https://strikerold.github.io/StrikerOld.github.io/admin.html/
 Sitemap: http://StrikerOld.github.io/sitemap.xml
 Host: StrikerOld.github.io
