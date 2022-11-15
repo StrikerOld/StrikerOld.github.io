@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /
 Allow: https://strikerold.github.io/HTML/Tov.html
 Disallow: StrikerOld.github.io/Kart.html
 Disallow: StrikerOld.github.io/admin.html
