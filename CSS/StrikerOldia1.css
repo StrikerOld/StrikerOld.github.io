@@ -395,7 +395,15 @@ header h2{
 }
 /* Для галереи */
 .galler{
-    margin-left: 450px;
+    width: 75%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: colunm;
+    font-family: Century Gothic;
+    flex: 0 -5px;
+    margin-top: 125px;
+    margin-left: 250px;
 }
 .gal{
     width: 480px;
