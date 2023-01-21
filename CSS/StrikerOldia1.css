@@ -393,3 +393,8 @@ header h2{
     margin-left: 125px;
     position: absolute;
 }
+/* Для картинок галереи */
+.gal{
+    width: 480px;
+    height: 480px;
+}
