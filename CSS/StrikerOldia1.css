@@ -403,9 +403,7 @@ header h2{
     margin-left: 210px;
     margin-top: 25px;
 }
-#myImg img{
-    cursor: pointer;
-    transition: 0.3s;
+.gal img{
     width: 25px;
     height: 25px;
 }
