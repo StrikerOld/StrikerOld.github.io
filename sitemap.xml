@@ -46,128 +46,63 @@
 <url>
 <loc>https://strikerold.github.io/dostavka.php</loc>
 </url>
-<url>
-<loc>https://strikerold.github.io/HTML/Usl.html</loc>
+  <url>
+<loc>https://strikerold.github.io/Gallery/gallery.html</loc>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/CPBA.jpg</image:loc>
-<image:title>Миниатюры Blood Angels Warhammer 40k Games Workshop</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/WBT.jpg</image:loc>
-<image:title>Миниатюра Warlord Titan Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/SMPI.jpg</image:loc>
-<image:title>Миниатюры Primaris Infiltrators Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/Abba.jpg</image:loc>
+<image:loc>https://strikerold.github.io/Abba_small.jpg</image:loc>
 <image:title>Миниатюра Abaddon the Despoiler Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/DGPM.jpg</image:loc>
-<image:title>Миниатюры Plague Marines Warhammer 40k Games Workshop купить</image:title>
+<image:loc>https://strikerold.github.io/CPBA_small.jpg</image:loc>
+<image:title>Миниатюры Blood Angels Warhammer 40k Games Workshop</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/CPSW.jpg</image:loc>
+<image:loc>https://strikerold.github.io/WBT_small.jpg</image:loc>
+<image:title>Миниатюра Warlord Titan Warhammer 40k Games Workshop купить</image:title>
+</image:image>
+<image:image>
+<image:loc>https://strikerold.github.io/SMPI_small.jpg</image:loc>
+<image:title>Миниатюры Primaris Infiltrators Warhammer 40k Games Workshop купить</image:title>
+</image:image>
+<image:image>
+<image:loc>https://strikerold.github.io/CPSW_small.jpg</image:loc>
 <image:title>Миниатюры Space Wolves Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/Mephi.jpg</image:loc>
+<image:loc>https://strikerold.github.io/DGPM_small.jpg</image:loc>
+<image:title>Миниатюры Plague Marines Warhammer 40k Games Workshop купить</image:title>
+</image:image>
+<image:image>
+<image:loc>https://strikerold.github.io/Mephi_small.jpg</image:loc>
 <image:title>Миниатюра Mephiston Lord Of Death Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/CSML.jpg</image:loc>
+<image:loc>https://strikerold.github.io/CSML_small.jpg</image:loc>
 <image:title>Миниатюра Chaos Lord Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/SMAT.jpg</image:loc>
+<image:loc>https://strikerold.github.io/SMAT_small.jpg</image:loc>
 <image:title>Миниатюры Space Marines Assault Terminators Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/SMT.jpg</image:loc>
+<image:loc>https://strikerold.github.io/SMT_small.jpg</image:loc>
 <image:title>Миниатюры Space Marines Terminators Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/SWWG.jpg</image:loc>
+<image:loc>https://strikerold.github.io/SWWG_small.jpg</image:loc>
 <image:title>Миниатюры Space Wolves Wolf Guard Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/SMTC.jpg</image:loc>
+<image:loc>https://strikerold.github.io/SMTC_small.jpg</image:loc>
 <image:title>Миниатюры Space Marines Terminator Command Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/SP.jpg</image:loc>
+<image:loc>https://strikerold.github.io/SP_small.jpg</image:loc>
 <image:title>Миниатюры Space Marines Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 <image:image>
-<image:loc>https://strikerold.github.io/Kart/CSMT.jpg</image:loc>
+<image:loc>https://strikerold.github.io/CSMT_small.jpg</image:loc>
 <image:title>Миниатюры Chaos Space Marines Terminator Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-</url>
-<url>
-<loc>https://strikerold.github.io</loc>
-<image:image>
-<image:loc>https://strikerold.github.io/Slider/1.jpg</image:loc>
-<image:title>Warhammer 40,000 Infiltrator SM Squad</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Slider/2.jpg</image:loc>
-<image:title>Warhammer 40,000 Plague Marines</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Slider/3.jpg</image:loc>
-<image:title>Warhammer 40,000 CSM Lord</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Slider/4.jpg</image:loc>
-<image:title>Warhammer 40,000 BA Mephiston</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Slider/5.jpg</image:loc>
-<image:title>Warhammer 40,000 Abaddon the Warmaster</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/meme.jpg</image:loc>
-<image:title>Warhammer 40,000 мем</image:title>
-</image:image>
-</url>
-<url>
-<loc>https://strikerold.github.io/mailto:email@example.ru</loc>
-</url>
-<url>
-<loc>https://strikerold.github.io/HTML/Tov.html</loc>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/CPBA.jpg</image:loc>
-<image:title>Миниатюры Blood Angels Warhammer 40k Games Workshop</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/WBT.jpg</image:loc>
-<image:title>Миниатюра Warlord Titan Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/SMPI.jpg</image:loc>
-<image:title>Миниатюры Primaris Infiltrators Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/Abba.jpg</image:loc>
-<image:title>Миниатюра Abaddon the Despoiler Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/DGPM.jpg</image:loc>
-<image:title>Миниатюры Plague Marines Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/CPSW.jpg</image:loc>
-<image:title>Миниатюры Space Wolves Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/Mephi.jpg</image:loc>
-<image:title>Миниатюра Mephiston Lord Of Death Warhammer 40k Games Workshop купить</image:title>
-</image:image>
-<image:image>
-<image:loc>https://strikerold.github.io/Kart/CSML.jpg</image:loc>
-<image:title>Миниатюра Chaos Lord Warhammer 40k Games Workshop купить</image:title>
 </image:image>
 </url>
 </urlset>
