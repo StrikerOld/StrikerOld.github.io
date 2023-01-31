@@ -12,16 +12,16 @@ a[data-fancybox] img:hover {
 }
 
 /* Шапка */
-.head a{
+.head{
   text-align: center;
 }
 
-.head a {
+/*.head {
   display: block;
   text-decoration: none;
   outline: none;  
   transition: .3s ease-in-out;
-}
+}*/
 
 /*Подключение шрифта*/
 @font-face {
