@@ -12,11 +12,11 @@ a[data-fancybox] img:hover {
 }
 
 /* Шапка */
-header a{
+.head a{
   text-align: center;
 }
 
-header a {
+.head a {
   display: block;
   text-decoration: none;
   outline: none;  
