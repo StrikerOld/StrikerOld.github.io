@@ -11,63 +11,7 @@ a[data-fancybox] img:hover {
   text-align: center;
 }
 
-/* Шапка */
-.head{
-  text-align: center;
-}
-
-/*.head {
-  display: block;
-  text-decoration: none;
-  outline: none;  
-  transition: .3s ease-in-out;
-}*/
-
-/*Подключение шрифта*/
-@font-face {
-    font-family: 'Century Gothic'; 
-    src: url(/Font/centurygothic.ttf); 
-}
-
-/* Продолжение стиля для шапки */
 .logo {
   width: 150px;
   height: 150px;
-}
-div {
-  display: table;
-  margin: 0 auto;
-   font-family: Century Gothic;
-}
-
-div ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  font-family: Century Gothic;
-}
-
-.topmenu:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.topmenu > li {
-  float: left;
-  position: relative;
-  font-family: Century Gothic;
-}
-
-.topmenu > li > a {
-  text-transform: uppercase;
-  font-size: 20px;
-  font-weight: bold;
-  color: black;
-  padding: 15px 30px;
-    font-family: Century Gothic;
-}
-
-.topmenu li a:hover {
- color: red;
 }
