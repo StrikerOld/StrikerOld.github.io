@@ -394,16 +394,15 @@ header h2{
     position: absolute;
 }
 /* Для галереи */
-.galler{
-    background-color: white;
-    display: flex;
-    flex-wrap: wrap;
-    font-family: Century Gothic;
-    flex: 0 -5px;
-    margin-left: 210px;
-    margin-top: 25px;
+a[data-fancybox] img {
+  cursor: zoom-in;
+  width: 225px;
 }
-.gal img{
-    width: 25px;
-    height: 25px;
+a[data-fancybox] img:hover {
+  box-shadow: 0 0 5px #000;
+  transition: 1s ease-in-out;
+}
+
+.fancybox__caption {
+  text-align: center;
 }
