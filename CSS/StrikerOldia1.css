@@ -398,6 +398,15 @@ header h2{
     width: 75%;
     font-family: Century Gothic;
     font-size: 20px;
-    text-align:center;
     margin-left: 200px;
+}
+.text2{
+    width: 75%;
+    font-family: Century Gothic;
+    font-size: 20px;
+    margin-left: 200px;
+}
+.spis{
+    font-family: Century Gothic;
+    font-size: 20px;
 }
