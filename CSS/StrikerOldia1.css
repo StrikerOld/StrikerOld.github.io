@@ -397,6 +397,7 @@ header h2{
 .text1{
     width: 75%;
     font-family: Century Gothic;
-    font-size: 25px;
+    font-size: 20px;
     text-align:center;
+    margin-left: 250px;
 }
