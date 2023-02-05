@@ -393,3 +393,9 @@ header h2{
     margin-left: 125px;
     position: absolute;
 }
+/* Для текста на главной */
+.text1{
+    width: 75%;
+    font-family: Century Gothic;
+    font-size: 25px;
+}
