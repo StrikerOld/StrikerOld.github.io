@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Allow: /https://strikerold.github.io/HTML/Tov.html/
+Allow: /https://strikerold.github.io/HTML/Onas.html/
+Allow: /https://strikerold.github.io/HTML/Blog.html/
 Allow: /https://strikerold.github.io/Gallery/gallery.html/
 Disallow: /https://strikerold.github.io/StrikerOld.github.io/tree/main/Kart/
 Disallow: /https://strikerold.github.io/StrikerOld.github.io/admin.html/
