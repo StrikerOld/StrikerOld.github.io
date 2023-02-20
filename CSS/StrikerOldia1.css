@@ -454,9 +454,19 @@ header h2{
       font-weight: bolder;
     }
     .aboutkomp{
-      margin-left: 25vw;
+      margin-left: 20vw;
         margin-top: -25vw;
     }
+.column_links {
+        width:  90vw;
+        margin-left: -115vw;
+        margin-top: 60vw;
+    }  
+.column_subscribe {   
+        width:  90vw;
+        margin-left: -115vw;
+        margin-top: 175vw;
+    } 
     .about p {
       text-align: justify;
       line-height: 2;
@@ -479,9 +489,6 @@ header h2{
       color: white;
       cursor: pointer;
     }
-    .column_subscribe { 
-      margin-left: -5vw;  
-  }  
     .logo1{
       position: relative;
       height: 200px;
