@@ -419,3 +419,9 @@ header h2{
     position: absolute;
     margin-top: 1vw;
 }
+/* Для подвала */
+footer{
+  margin-top: 5vw;
+  width: 100%;
+  background-color: black;
+}
