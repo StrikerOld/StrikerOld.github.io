@@ -420,8 +420,117 @@ header h2{
     margin-top: 1vw;
 }
 /* Для подвала */
-footer{
-  margin-top: 5vw;
-  width: 100%;
-  background-color: black;
-}
+    footer {
+      background-color: #121315;
+      color: #a7a7a7;
+      font-size: 16px;
+      margin-top: 2vw;
+      font-weight: bolder;
+      height: 21vw;
+    }
+    .row {
+      padding: 1em 1em;
+    }
+    .row.primary {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 2fr;
+      align-items: stretch;
+    }
+    .column {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      padding: 0 2em;
+      min-height: 15em;
+      font-weight: bolder;
+    }
+    h3 {
+      width: 100%;
+      text-align: left;
+      color: white;
+      font-size: 1.4em;
+      white-space: nowrap;
+      font-weight: bolder;
+    }
+    .aboutkomp{
+      margin-left: 75vw;
+      margin-top: -380px;
+    }
+    .about p {
+      text-align: justify;
+      line-height: 2;
+      margin: 0;
+    }
+    input,
+    button {
+      font-size: 1em;
+      padding: 1em;
+      width: 100%;
+      border-radius: 5px;
+      margin-bottom: 5px;
+    }
+    .button {
+      background-color: darkred;
+      color: white;
+    }
+    .button:hover {
+      background-color: black;
+      color: white;
+      cursor: pointer;
+    }
+    .column_subscribe { 
+      margin-left: 5vw;  
+  }  
+    .logo1{
+      position: relative;
+      height: 200px;
+  }
+  @media only screen and (max-width: 320px) {  
+    footer {   
+        width:  100vw;
+        height: 273vw;
+    }  
+  }
+  @media only screen and (max-width: 320px) {  
+    .column_links {
+        width:  90vw;
+        margin-left: -115vw;
+        margin-top: 60vw;
+    }  
+  }
+  @media only screen and (max-width: 320px) {  
+    .column_subscribe {   
+        width:  90vw;
+        margin-left: -115vw;
+        margin-top: 175vw;
+    }  
+  }
+  @media only screen and (max-width: 320px) {  
+    .column_links h3{   
+        font-size: 15px;
+    }  
+  }
+  @media only screen and (max-width: 320px) {  
+    .column_subscribe h3{   
+        font-size: 15px;
+    }  
+  }
+  @media only screen and (max-width: 320px) {  
+      .button{   
+        width:  50vw;
+        margin-left: 20vw;
+    }  
+  }
+      @media only screen and (max-width: 320px) {  
+      .logo1 {   
+          height: 30vw;
+          margin-left: -250px;
+      }  
+  }
+  @media only screen and (max-width: 320px) {  
+    .aboutkomp {   
+        margin-top: 2vw;
+        font-size: 4vw;
+        margin-left: 10vw;
+    }  
+  }
