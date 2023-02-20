@@ -337,8 +337,12 @@ a:active{
       cursor: pointer;
     }
     .column_subscribe { 
+        margin-top: -5vw;
       margin-left: 5vw;  
   }  
+.column_links {
+    margin-top: -5vw;
+    }  
     .logo1{
       position: relative;
       height: 200px;
