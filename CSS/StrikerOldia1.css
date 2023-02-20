@@ -411,3 +411,11 @@ header h2{
     font-size: 20px;
     margin-left: 200px;
 }
+/* Для карт */
+.yandex{
+  margin-left: -250px;
+}
+.google{
+    margin-left: -250px;
+    position: absolute;
+}
