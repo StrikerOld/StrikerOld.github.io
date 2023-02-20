@@ -413,11 +413,11 @@ header h2{
 }
 /* Для карт */
 .yandex{
-  margin-left: -5vw;
+  margin-left: -15vw;
     position: absolute;
 }
 .google{
-    margin-left: 25vw;
+    margin-left: 45vw;
     position: absolute;
     margin-top: -20vw;
 }
