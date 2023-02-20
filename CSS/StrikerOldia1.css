@@ -283,7 +283,7 @@ a:active{
       font-size: 16px;
       font-weight: bolder;
       height: 21vw;
-        margin-top: 25vw;
+        margin-top: 35vw;
     }
     .row {
       padding: 1em 1em;
@@ -339,6 +339,9 @@ a:active{
       margin-left: 5vw; 
         margin-top: -5vw;
   }  
+.column_links {
+        margin-top: -5vw;
+    }  
     .logo1{
       position: relative;
       height: 200px;
