@@ -237,39 +237,6 @@ div ul {
 .t3:hover{
     cursor: pointer;
 }
-/* Подвал */
-footer{
-    position: absolute;
-  width: 100%;
-  height: 100px;
-  font-family: Century Gothic;
-  color: black;
-  margin-left: 450px;
-  margin-top: 150px;
-}
-.vk{
-    width: 50px;
-    height: 50px;
-    margin-left: 25px;
-    margin-top: 5px;
-}
-.insta{
-    width: 50px;
-    height: 50px;
-    margin-left: 35px;
-    margin-top: 5px;
-}
-.svyaz{
-    margin-top: -85px;
-    margin-left: 190px;
-}
-.p1{
-    font-size: 20px;
-    margin-left:  350px;
-    margin-top: -65px;
-    position: absolute;
-}
-
 /* Для ссылок */
 a:link{
     color: black;
@@ -424,10 +391,9 @@ header h2{
       background-color: #121315;
       color: #a7a7a7;
       font-size: 16px;
-      margin-top: 25vw;
+      margin-top: 2vw;
       font-weight: bolder;
       height: 21vw;
-      margin-left: 1vw;
     }
     .row {
       padding: 1em 1em;
@@ -454,15 +420,9 @@ header h2{
       font-weight: bolder;
     }
     .aboutkomp{
-      margin-left: 20vw;
-        margin-top: -25vw;
+      margin-left: 75vw;
+      margin-top: -380px;
     }
-.column_links {
-        width:  90vw;
-    }  
-.column_subscribe {   
-        width:  90vw;
-    } 
     .about p {
       text-align: justify;
       line-height: 2;
@@ -485,6 +445,9 @@ header h2{
       color: white;
       cursor: pointer;
     }
+    .column_subscribe { 
+      margin-left: 5vw;  
+  }  
     .logo1{
       position: relative;
       height: 200px;
