@@ -455,6 +455,7 @@ header h2{
     }
     .aboutkomp{
       margin-left: 25vw;
+        margin-top: -25vw;
     }
     .about p {
       text-align: justify;
