@@ -283,6 +283,7 @@ a:active{
       font-size: 16px;
       font-weight: bolder;
       height: 21vw;
+        margin-top: 25vw;
     }
     .row {
       padding: 1em 1em;
@@ -299,7 +300,6 @@ a:active{
       padding: 0 2em;
       min-height: 15em;
       font-weight: bolder;
-        margin-top: -5vw;
     }
     h3 {
       width: 100%;
@@ -336,7 +336,8 @@ a:active{
       cursor: pointer;
     }
     .column_subscribe { 
-      margin-left: 5vw;  
+      margin-left: 5vw; 
+        margin-top: -5vw;
   }  
     .logo1{
       position: relative;
