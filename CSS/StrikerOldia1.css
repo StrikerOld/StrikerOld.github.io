@@ -427,6 +427,7 @@ header h2{
       margin-top: 2vw;
       font-weight: bolder;
       height: 21vw;
+      margin-left: -25vw;
     }
     .row {
       padding: 1em 1em;
