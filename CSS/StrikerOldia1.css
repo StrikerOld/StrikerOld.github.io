@@ -428,7 +428,6 @@ header h2{
       font-weight: bolder;
       height: 21vw;
       margin-left: 1vw;
-     
     }
     .row {
       padding: 1em 1em;
@@ -455,8 +454,8 @@ header h2{
       font-weight: bolder;
     }
     .aboutkomp{
-      margin-left: 75vw;
-      margin-top: -380px;
+      margin-left: -15vw;
+      margin-top: -350px;
     }
     .about p {
       text-align: justify;
@@ -481,7 +480,7 @@ header h2{
       cursor: pointer;
     }
     .column_subscribe { 
-      margin-left: 5vw;  
+      margin-left: -5vw;  
   }  
     .logo1{
       position: relative;
