@@ -164,6 +164,12 @@ div ul {
 .meme{
   margin-top: 35px;
 }
+  @media only screen and (max-width: 320px) {  
+    .meme {   
+        width: 50px;
+        height: 50px;
+    } 
+  }
 /* Блок "кратко о нас" */
 .onaskr{
   width: 70%;
