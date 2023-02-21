@@ -164,9 +164,9 @@ div ul {
 .meme{
   margin-top: 35px;
 }
-  @media only screen and (max-width: 320px) {  
-    .meme {   
-        height: 5vw;
+     @media only screen and (max-width: 320px) {  
+    .meme {  
+    margin-left: -5vw; 
     } 
   }
 /* Блок "кратко о нас" */
