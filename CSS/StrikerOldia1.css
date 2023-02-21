@@ -268,6 +268,21 @@ a:active{
     font-size: 20px;
     margin-left: 200px;
 }
+  @media only screen and (max-width: 320px) {  
+    .text1 {   
+        margin-left: 12vw;
+    } 
+  }
+    @media only screen and (max-width: 320px) {  
+    .text2 { 
+    margin-left: 12vw;  
+    } 
+  }
+     @media only screen and (max-width: 320px) {  
+    .spis {  
+    margin-left: 5vw; 
+    } 
+  }
 /* Для карт */
 .yandex{
 }
@@ -348,22 +363,23 @@ a:active{
   }
   @media only screen and (max-width: 320px) {  
     footer {   
+      margin-top: 145vw;
         width:  100vw;
-        height: 273vw;
+        height: 306vw;
     }  
   }
   @media only screen and (max-width: 320px) {  
     .column_links {
         width:  90vw;
-        margin-left: -115vw;
-        margin-top: 60vw;
+        margin-left: -60vw;
+        margin-top: 20vw;
     }  
   }
   @media only screen and (max-width: 320px) {  
     .column_subscribe {   
         width:  90vw;
-        margin-left: -115vw;
-        margin-top: 175vw;
+        margin-left: -90vw;
+        margin-top: 130vw;
     }  
   }
   @media only screen and (max-width: 320px) {  
@@ -397,7 +413,6 @@ a:active{
   }
 .ya-share2{
     margin-left: 20vw;
-    posirion: absolute;
 }
 /* Для поиска */
 .poisk {
@@ -432,3 +447,28 @@ a:active{
   font-size: 20px;
   font-weight: bold;
 }
+  @media only screen and (max-width: 320px) {  
+    .ya-share2 {   
+        margin-left: 24vw;
+    } 
+  }
+  @media only screen and (max-width: 320px) {  
+    .ya-share2 {   
+        margin-left: 24vw;
+    } 
+  }
+    @media only screen and (max-width: 320px) {  
+    .yandex {   
+        margin-left: -2vw;
+        width: 85vw;
+        height: 85vw;
+    } 
+  }
+     @media only screen and (max-width: 320px) {  
+    .google {   
+        margin-left: -2vw;
+        width: 85vw;
+        height: 85vw;
+        margin-left: 6vw;
+    } 
+  }
