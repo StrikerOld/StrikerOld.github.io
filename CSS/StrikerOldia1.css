@@ -167,6 +167,7 @@ div ul {
      @media only screen and (max-width: 320px) {  
     .meme {  
     margin-left: -5vw; 
+        width: 25px;
     } 
   }
 /* Блок "кратко о нас" */
